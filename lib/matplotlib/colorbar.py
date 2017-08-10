@@ -1180,7 +1180,7 @@ def make_axes_gridspec(parent, **kw):
     '''
     Resize and reposition a parent axes, and return a child axes
     suitable for a colorbar. This function is similar to
-    make_axes. Prmary differences are
+    make_axes. Primary differences are
 
      * *make_axes_gridspec* only handles the *orientation* keyword
        and cannot handle the "location" keyword.
